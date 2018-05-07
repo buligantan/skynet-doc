@@ -23,7 +23,6 @@ skynet.cloud.App
 --address=127.0.0.1
 --server.port=2236
 --name=rest-app-v10@sample
---eureka.client.serviceUrl.defaultZone=http://192.168.83.206:7070/eureka
 ```
 
 #### JVM参数
